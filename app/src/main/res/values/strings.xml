@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoL</string>
+    <string name="hello_student">Welcome to League of Lions!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lion">lion</string>
+
+</resources>
